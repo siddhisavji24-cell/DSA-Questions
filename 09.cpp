@@ -23,3 +23,4 @@ int main()
     Solution s;
     cout<<s.isPalindrome(121);
 }
+ 
