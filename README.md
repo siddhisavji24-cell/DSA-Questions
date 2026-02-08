@@ -41,3 +41,7 @@ Each `.cpp` file contains a **standalone solution** to one DSA problem.
 Compile:
 
 g++ filename.cpp -o program
+
+Run:
+
+./output
